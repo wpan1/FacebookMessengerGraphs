@@ -1,5 +1,9 @@
 # FacebookMessengerGraphs
 Plots graphs between two participants
+- Monthly data
+- Monthly data per person
+- Daily data
+- Daily data per person
 
 ## Install
 ### Python 3+
