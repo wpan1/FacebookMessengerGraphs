@@ -19,4 +19,4 @@ https://www.facebook.com/help/1701730696756992?helpref=hc_global_nav
 
 - Install MatplotLib library
 
-```python scraper.py```
+- ```python scraper.py```
